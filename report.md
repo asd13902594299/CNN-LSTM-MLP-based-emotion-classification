@@ -2,7 +2,9 @@
 
 罗绍玮 2022010749
 
-云盘链接: 
+云盘链接: https://cloud.tsinghua.edu.cn/d/455a8679baf447f88ff5/
+
+git 鏈接: https://github.com/asd13902594299/CNN-LSTM-MLP-based-emotion-classification.git
 
 ## 1    模型的结构图，以及流程分析
 
